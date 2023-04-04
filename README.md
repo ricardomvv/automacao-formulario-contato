@@ -13,18 +13,20 @@ Teste automatizado utilizando o Selenium WebDriver com a linguagem de programaç
 - Formulário de contato.
 
 <b>Cenários automatizados:</b><br>
-- Preenchimento válido de um formulário de contato <br>
+- Preenchimento válido de um formulário de contato; <br>
+- Preenchimento inválido ao não preencher nome no formulário. <br>
 
 <b>Pré-Requisitos:</b><br>
 - Selenium 4.0.0;
-- Instalar o JDK 17;
+- Instalar o JDK 17.
 
 <b>Outras tecnologias utilizadas:</b><br>
 - IntelliJ IDEA;
 - Maven Repository;
-- TestNG.
+- TestNG;
+- JUnit.
 
 <b>Observação:</b> A versão do navegador precisa ser compatível com a versão do WebDriver para rodar os testes. <br>
 Versão ChromeDriver utilizada: <b>111.0.5563.64</b>
 
-<i>Versão: 1.0.0</i>
+<i>Versão: 1.1.0</i>
